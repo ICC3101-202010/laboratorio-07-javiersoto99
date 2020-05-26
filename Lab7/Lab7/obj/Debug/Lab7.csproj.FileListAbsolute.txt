@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\bin\Debug\Lab7.exe.config
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\bin\Debug\Lab7.exe
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\bin\Debug\Lab7.pdb
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\obj\Debug\Lab7.exe
+\\Mac\Home\Desktop\laboratorio-07-javiersoto99\Lab7\Lab7\obj\Debug\Lab7.pdb
